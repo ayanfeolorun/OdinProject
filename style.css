@@ -4,8 +4,8 @@ body {
     overflow: hidden;
 }
 main {
-    background-image: url(E-picture5.jpg);
-    vertical-align middle;
+    background-image: url('/E-picture5.jpg');
+    /*vertical-align :middle;*/
     width: 100vw;
     height: 700px;
     position: relative;
